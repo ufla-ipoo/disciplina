@@ -63,7 +63,7 @@ public class Estudante
     /**
      * Retorna o número de créditos que o estudante já acumulou.
      */
-    public int getCreditos()
+    public int obterCreditos()
     {
         return creditos;
     }
