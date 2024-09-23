@@ -18,7 +18,7 @@ Este projeto é parte do material do livro
 O objetivo deste projeto é ilustrar a interação entre objetos e examinar 
 alguns códigos simples. Veja os capítulos 1 e 3 do livro.
 
-Para usar esse projeto, crie alguns objetos Estudante, e então crie um objeto
-Disciplina.
-Adicione os estudantes à disciplina usando o método `matricularEstudante.
-Exiba a lista da disciplina.
+Para usar esse projeto, crie alguns objetos da classe `Estudante`, e então crie um objeto
+da classe `Disciplina`.
+Adicione os estudantes à disciplina usando o método `matricularEstudante`.
+E então exiba a lista da disciplina.
